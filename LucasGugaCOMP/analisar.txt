@@ -1,0 +1,5 @@
+int teste(){
+int x = 10;
+char y = "x";
+int outro = "x" + x;
+}
